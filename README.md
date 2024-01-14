@@ -1,8 +1,8 @@
 HOW TO RUN THE WORDLE GAME
-1) Make sure you have an IDE downloaded on your device (Preferably VSCode)
+1) Make sure you have an IDE downloaded on your device
 2) Make sure the latest version of Golang is downloaded on your device
     - https://go.dev/dl/ - Make sure to install based on your corresponding operating system
-3) Download the official Go extension on VSCode 
+3) Download the official Go extension on your IDE (if applicable)
     - Search up "Go" in extensions and download the first one
 4) Navigate to your bash terminal
     - To ensure Go is installed, type in "go version", if the version pops up, you have successfully downloaded Go
@@ -19,6 +19,6 @@ HOW TO PLAY THE WORDLE GAME
 6) After your guess, you will get hints at the bottom of the screen to help you with your guessing
 7) To play a new game, exit out of the window and rerun the game (go run main.go)
 8) RESTRICTIONS
-    - Do not enter more than one character in each input box, if you do input tmore than one character in each inpu tbox, you won't be able to see it, but the game is taking in all those letters
+    - Do not enter more than one character in each input box, if you do input more than one character in each input box, you won't be able to see it, but the game is taking in all those letters
 9) MORE
     - The output in the terminal will tell you what word you are guessing towards, you current guess, and how many guesses you have left (all for testing purposes)
